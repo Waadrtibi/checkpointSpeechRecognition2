@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+json5
+unidecode
+streamlit
+pipwin
+pyaudio
+nltk
+speechrecognition
+pyttsx3
+scikit-learn
+numpy
