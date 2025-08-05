@@ -11,3 +11,4 @@ speechrecognition
 pyttsx3
 scikit-learn
 numpy
+pocketsphinx
